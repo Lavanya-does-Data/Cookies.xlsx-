@@ -1,3 +1,3 @@
 # Cookies.xlsx-
-This Excel project depicts vlookup, visualization, & pivot of a cookies business.
+This Excel project depicts application of vlookup to replicate the whole table, visualization using scatter graph, & pivot showing sum of sales & sum of quantity based on salesperson & location with a product slicer of a cookies business.
 Screenshots of the dashboard: https://github.com/Lavanya-does-Data/Cookies.xlsx-/blob/main/Screenshot%202025-11-11%20165932.png , https://github.com/Lavanya-does-Data/Cookies.xlsx-/blob/main/Screenshot%202025-11-11%20170033.png , https://github.com/Lavanya-does-Data/Cookies.xlsx-/blob/main/Screenshot%202025-11-11%20170047.png
